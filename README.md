@@ -13,6 +13,12 @@
 
 ---
 
+<div align="center">
+
+![snake gif](https://github.com/chavananand522/chavananand522/blob/output/github-snake-dark.svg)
+
+</div>
+
 ### 🌐 Connect With Me
 
 <p align="left">
